@@ -1,0 +1,6 @@
+[submodule "packages/Math"]
+	path = packages/Math
+	url = https://github.com/jacintoface/Math.git
+[submodule "packages/phone-ui"]
+	path = packages/phone-ui
+	url = https://github.com/jacintoface/phone-ui.git
