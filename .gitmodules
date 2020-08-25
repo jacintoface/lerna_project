@@ -4,3 +4,6 @@
 [submodule "packages/phone-ui"]
 	path = packages/phone-ui
 	url = https://github.com/jacintoface/phone-ui.git
+[submodule "packages/test-center"]
+	path = packages/test-center
+	url = https://github.com/jacintoface/test-center.git
